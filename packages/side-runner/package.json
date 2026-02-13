@@ -34,7 +34,7 @@
     "lodash": "^4.17.21",
     "resolve-bin": "^1.0.1",
     "rimraf": "^5.0.1",
-    "semver": "^7.5.3",
+    "semver": "^7.5.4",
     "winston": "^3.9.0"
   },
   "devDependencies": {
